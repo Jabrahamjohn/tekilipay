@@ -45,7 +45,7 @@ That is all. You are now ready to receive and send money using MPESA on your Wor
 
 ### Integration Cost
 
-* Our team of developers are on hand to provide assistance for when you wish to move from Sandbox(test) to Live(production) environment. This assistance is charged a flat fee of `KSH 4000/$40`
+* Our team of developers are on hand to provide assistance for when you wish to move from Sandbox(test) to Live(production) environment. This assistance is charged a flat fee of `KSH 4000/$40` 
 
 ## Acknowledgements
 
