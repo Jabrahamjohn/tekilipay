@@ -10,7 +10,7 @@
 						|           |
 						|           |
 						|___________|
-						
+
 # MPESA For WooCommerce
 
 WordPress Plugin that extends WooCommerce functionality to integrate MPESA for making payments, remittances, checking account balance transaction status and reversals.
@@ -31,7 +31,7 @@ Your site/app MUST be running over https for the MPESA Instant Payment Notificat
 * In your WordPress admin, navigate to Plugins and search for MPESA for WooCommerce.
 * Click the install button and the plugin will be installed. Once installed, activate the plugin and configure it at <http://yoursite.com/wp-admin/admin.php?page=wc-settings&tab=checkout&section=mpesa>
 
-### Manual Installation 
+### Manual Installation
 
 * First, you need to download the latest release of the plugin from [here](https://github.com/jabrahamjohn/releases).
 * Using an FTP program, or your hosting control panel, upload the plugin folder (wc-mpesa) to your WordPress installation’s wp-content/plugins/ directory.
@@ -45,7 +45,7 @@ That is all. You are now ready to receive and send money using MPESA on your Wor
 
 ### Integration Cost
 
-* Our team of developers are on hand to provide assistance for when you wish to move from Sandbox(test) to Live(production) environment. This assistance is charged a flat fee of `KSH 4000/$40` 
+* Our team of developers are on hand to provide assistance for when you wish to move from Sandbox(test) to Live(production) environment. This assistance is charged a flat fee of `KSH 4000/$40`
 
 ## Acknowledgements
 
