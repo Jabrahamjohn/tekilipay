@@ -50,7 +50,7 @@ That is all. You are now ready to receive and send money using MPESA on your Wor
 ## Acknowledgements
 
 * MPESA and the MPESA Logo are registered trademarks of Safaricom Ltd
-* WordPress and the WordPress logo are registered trademarks of Automattic Inc
+* WordPress and the WordPress logo are registered trademarks of Automattic Inc.
 * WooCommerce and the WooCommerce logo are registered trademarks of Automattic Inc.
 
 ## License
